@@ -1,1 +1,2 @@
-# Testing first commit in the README
+# Arm Copilot Extension
+
