@@ -26,26 +26,44 @@ The current scope for the `@arm` extension is to assist Arm-based cloud develope
 Our extension also excels at helping with basic advice, such as `@arm I am trying to compile C++ code for the Arm architecture. Which compiler should I use?`
 
 ## Two-Column Section
-
-<div style="display: flex;">
-
-<div style="flex: 1; margin-right: 10px;">
-
-### Column 1
-Content for the first column goes here.  
-You can add text, images, or any other content.
-
-</div>
-
-<div style="flex: 1;">
-
-### Column 2
-Content for the second column goes here.  
-Add more content here as needed.
-
-</div>
-
-</div>
+<table>
+<tr>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+Picture here 1
+  
+</td>
+<td>
+Picture here 2
+  
+</td>
+</tr>
+<tr>
+<td align="center">
+Column 1
+</td>
+<td align="center">
+Column 2
+</td>
+</tr>
+</table>
 
 ## How can I get access to @arm? Is it free?
 It is free and easy to start. Make sure you (1) have a GitHub Copilot license, (2) install the Arm extension from the GitHub Marketplace, and (3) call `@arm` from your GitHub Copilot chat on GitHub or your favorite code editor. The first time you call `@arm` you will have to authorize the extension by clicking through a few screens. Then start using `@arm` as much as you'd like!
