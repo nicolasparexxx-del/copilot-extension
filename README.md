@@ -41,5 +41,5 @@ We continue to update and expand the scope of the `@arm` GitHub Copilot extensio
 
 We are excited to see what you build :)
 
-## Learn more about the Arm Developer ecosystem
+### Learn more about the Arm Developer ecosystem
 - Join the Arm Developer Program to talk other like-minded developers and Arm Experts about software development. 
