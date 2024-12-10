@@ -1,11 +1,11 @@
 # Arm Copilot Extension
 
-Welcome to the Arm extension to GitHub Copilot. The goal of this tool is to make it faster for anyone to develop better code on Arm-based servers. Wheather you're a seasoned cloud architect or a beginner to the Arm architecture, developing on AWS Graviton, GCP Axion, Azure Cobolt, or Oracle AmpereOne, asking `@arm` will make your coding easier.
+Welcome to the Arm extension to GitHub Copilot. The goal of this tool is to make it faster for anyone to develop better code on Arm-based servers. Whether you're a seasoned cloud architect or a beginner to the Arm architecture, developing on AWS Graviton, GCP Axion, Azure Cobolt, or Oracle AmpereOne, asking `@arm` will make your coding easier.
 
 ## Why use @arm? Is it different than standard GitHub Copilot?
 Our extension adds Arm-specific depth to GitHub Copilot in two primary ways. First, by ensuring responses are specific to the Arm-architecture. Calling `@arm` will ensure any tips, best-practice, and code snippets have the Arm architecture in mind. Default Copilot responses may provide information not-applicable to Arm-based cloud development.
 
-Second, by ensuring responses consist of the most relevent and up-to-date information in an ever-evolving industry. The `@arm` extension is built on a constantly updated RAG database of high-quality source material containing the most recent best-practices & code examples for Arm servers. Default Copilot responses may not reference the most up-to-date information possible.
+Second, by ensuring responses consist of the most relevant and up-to-date information in an ever-evolving industry. The `@arm` extension is built on a constantly updated RAG database of high-quality source material containing the most recent best-practices & code examples for Arm servers. Default Copilot responses may not reference the most up-to-date information possible.
 
   
 ## What can I use @arm for?
@@ -14,7 +14,7 @@ The current scope for the `@arm` extension is to assist Arm-based cloud develope
     - General best-practice: `@arm What is the best methodology for me to migrate my web service to Azure?`
     - Software compatibility:  `@arm Does Hyperscan and Snort3 work on Graviton4? What versions should I use?`
     - Intrinsic swapping: `@arm What is the Arm equivalent of the _mm_add_epi8 intrinsic?`   
-2. **Optimizaiton:** Get the best price performance for your project by asking questions like -
+2. **Optimization:** Get the best price performance for your project by asking questions like -
     - General best-practice: `@arm Explain how to optimize my app's performance with BOLT?`
     - Application-level: `@arm Help me improve memory alignment in my C data structures.`
     - Hardware-level: `@arm How do I check if my Arm server supports LSE? I want to leverage it for my Rust app.`
@@ -39,7 +39,7 @@ We think transparency is essential when it comes to AI products. Our `@arm` exte
 ### The future of the @arm extension
 We continue to update and expand the scope of the `@arm` GitHub Copilot extension. Any updates will be communicated here in this repository. If you have thoughts about what `@arm` should help with, any data sources `@arm` should be prioritizing, or otherwise please file an issue on the @arm Issue Tracker. Your feedback is appreciated, and helps us shape the future of this extension and beyond!
 
-We are excited to see what you build :)
+We are excited to see what you build!
 
 ### Learn more about the Arm Developer ecosystem
 - Join the Arm Developer Program to talk other like-minded developers and Arm Experts about software development. 
