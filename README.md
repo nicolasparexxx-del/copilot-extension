@@ -25,14 +25,14 @@ The current scope for the `@arm` extension is to assist Arm-based cloud develope
 
 Our extension also excels at helping with basic advice, such as `@arm I am trying to compile C++ code for the Arm architecture. Which compiler should I use?`
 
-## Two-Column Section
+## Three-Column Section
 <table>
 <tr>
 <th align="center">
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+MIGRATION
 </small>
 </p>
 </th>
@@ -40,7 +40,7 @@ EXAMPLE TEXT
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+OPTIMIZATION
 </small>
 </p>
 </th>
@@ -48,7 +48,7 @@ EXAMPLE TEXT
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+CI/CD
 </small>
 </p>
 </th>
@@ -69,13 +69,19 @@ Picture here 3
 </tr>
 <tr>
 <td align="center">
-Column 1
+- General best-practice: `@arm What is the best methodology for me to migrate my web service to Azure?`
+- Software compatibility:  `@arm Does Hyperscan and Snort3 work on Graviton4? What versions should I use?`
+- Intrinsic swapping: `@arm What is the Arm equivalent of the _mm_add_epi8 intrinsic?`   
 </td>
 <td align="center">
-Column 2
+- General best-practice: `@arm Explain how to optimize my app's performance with BOLT?`
+- Application-level: `@arm Help me improve memory alignment in my C data structures.`
+- Hardware-level: `@arm How do I check if my Arm server supports LSE? I want to leverage it for my Rust app.`
 </td>
 <td align="center">
-Column 3
+- General best-practice: `@arm How should I set up a multi-architecture CI pipeline in GitHub Actions?`
+- Container management: `@arm How do I build multi-architecture Docker images?`
+- Specific situations: `@arm How can I automate the deployment of an Arm virtual machine on GCP with Terraform?`
 </td>
 </tr>
 </table>
