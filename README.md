@@ -25,66 +25,6 @@ The current scope for the `@arm` extension is to assist Arm-based cloud develope
 
 Our extension also excels at helping with basic advice, such as `@arm I am trying to compile C++ code for the Arm architecture. Which compiler should I use?`
 
-## Three-Column Section
-<table>
-<tr>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-MIGRATION
-</small>
-</p>
-</th>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-OPTIMIZATION
-</small>
-</p>
-</th>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-CI/CD
-</small>
-</p>
-</th>
-</tr>
-<tr>
-<td>
-Picture here 1
-  
-</td>
-<td>
-Picture here 2
-  
-</td>
-<td>
-Picture here 3
-  
-</td>
-</tr>
-<tr>
-<td align="center">
-- General best-practice: `@arm What is the best methodology for me to migrate my web service to Azure?`
-- Software compatibility:  `@arm Does Hyperscan and Snort3 work on Graviton4? What versions should I use?`
-- Intrinsic swapping: `@arm What is the Arm equivalent of the _mm_add_epi8 intrinsic?`   
-</td>
-<td align="center">
-- General best-practice: `@arm Explain how to optimize my app's performance with BOLT?`
-- Application-level: `@arm Help me improve memory alignment in my C data structures.`
-- Hardware-level: `@arm How do I check if my Arm server supports LSE? I want to leverage it for my Rust app.`
-</td>
-<td align="center">
-- General best-practice: `@arm How should I set up a multi-architecture CI pipeline in GitHub Actions?`
-- Container management: `@arm How do I build multi-architecture Docker images?`
-- Specific situations: `@arm How can I automate the deployment of an Arm virtual machine on GCP with Terraform?`
-</td>
-</tr>
-</table>
 
 ## How can I get access to @arm? Is it free?
 It is free and easy to start. Make sure you (1) have a GitHub Copilot license, (2) install the Arm extension from the GitHub Marketplace, and (3) call `@arm` from your GitHub Copilot chat on GitHub or your favorite code editor. The first time you call `@arm` you will have to authorize the extension by clicking through a few screens. Then start using `@arm` as much as you'd like!
