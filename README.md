@@ -25,6 +25,7 @@
 
 
 The Arm extension provides tips, best-practice, and code examples to develop better code on Arm-based servers. All Arm-cloud developers, from beginners to experts, can benefit from using this integration. Obtain expert advice for developing on these servers and beyond:
+
 - AWS Graviton
 - GCP Axion
 - Azure Cobolt
@@ -91,6 +92,21 @@ Get straightforward, simple approaches to building the best apps on Arm servers 
 -----
 
 ## Additional Information
+
+### Current & Future features
+This table highlights the support status of features for this extension vs standard Github Copilot.
+
+| Feature         | @arm support | Rationale |
+|-----------------|------------|----------------------|
+| Ask questions       | ✅         | |
+| Using @workspace      | ❌ | Copilot does not support two @ extensions simultaneously | 
+| Access current file/repo context on Github.com       | ❌         | Copilot currently not enabling for extensions |
+| Access current file/repo context in an IDE        | ❌         | Copilot currently not enabling for extensions |
+
+### Key:
+- ✅ Supported
+- ❌ Not Supported
+
 
 ### What information do you store?
 We think transparency is essential when it comes to AI products. Our `@arm` extension respects your privacy. We do not sell your data to third parties. We do log conversations for the purposes of product improvement only, with all Personally Identifiable Information (such as your GitHub username) removed. For more details view our privacy policy and EULA. 
