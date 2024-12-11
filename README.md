@@ -46,47 +46,48 @@ Second, by ensuring responses consist of the most relevant and up-to-date inform
 The current scope for the `@arm` extension is to assist Arm-based cloud developers in three specific areas: Migration, Optimization, and CI/CD pipelines. It also handles basic coding advice for Arm-based servers.
 
 
-### Migration
+### 🚚 Migration
+
 Port your project to the Arm architecture faster by asking about general best-practices, software compatibility, even how to migrate intrinsics to Arm. Examples:
-```
-@arm What is the best methodology for me to migrate my web service to Azure?
-```
-```
-@arm Does Hyperscan and Snort3 work on Graviton4? What versions should I use?
-```
-```
-@arm What is the Arm equivalent of the _mm_add_epi8 intrinsic?
-```
+>```
+>@arm What is the best methodology for me to migrate my web service to Azure?
+>```
+>```
+>@arm Does Hyperscan and Snort3 work on Graviton4? What versions should I use?
+>```
+>```
+>@arm What is the Arm equivalent of the _mm_add_epi8 intrinsic?
+>```
 
-### Optimization
+### 📈 Optimization
 Get the best price performance for your project by asking about general best-practices, application-level tips, and how to take advantage of specific Arm architecture features. Examples:
-```
-@arm Explain how to optimize my app's performance with BOLT?
-```
-```
-@arm Help me improve memory alignment in my C data structures.
-```
-```
-@arm How do I check if my Arm server supports LSE? I want to leverage it for my Rust app.
-```
+> ```
+> @arm Explain how to optimize my app's performance with BOLT?
+> ```
+> ```
+> @arm Help me improve memory alignment in my C data structures.
+> ```
+> ```
+> @arm How do I check if my Arm server supports LSE? I want to leverage it for my Rust app.
+>```
 
-### CI/CD
+### 🛠️ CI/CD
 Learn to create an end-to-end tested & supported Arm-based project by asking about general best-practices, container management, and your specific pipeline setup. Examples:
-```
-@arm How should I set up a multi-architecture CI pipeline in GitHub Actions?
-```
-```
-@arm How do I build multi-architecture Docker images?
-```
-```
-@arm How can I automate the deployment of an Arm virtual machine on GCP with Terraform?
-```
+>```
+>@arm How should I set up a multi-architecture CI pipeline in GitHub Actions?
+>```
+>```
+>@arm How do I build multi-architecture Docker images?
+>```
+>```
+>@arm How can I automate the deployment of an Arm virtual machine on GCP with Terraform?
+>```
 
-### Getting Started on Arm servers
+### 🚀 Getting Started on Arm servers
 Get straightforward, simple approaches to building the best apps on Arm servers starting from the basics. Example:
-```
-@arm I am trying to compile C++ code for the Arm architecture. Which compiler should I use?
-```
+>```
+>@arm I am trying to compile C++ code for the Arm architecture. Which compiler should I use?
+>```
 
 
 -----
@@ -96,14 +97,16 @@ Get straightforward, simple approaches to building the best apps on Arm servers 
 ### Current & Future features
 This table highlights the support status of features for this extension vs standard Github Copilot.
 
-| Feature         | @arm support | Rationale |
-|-----------------|------------|----------------------|
-| Ask questions       | ✅         | |
-| Using @workspace      | ❌ | Copilot does not support two @ extensions simultaneously | 
-| Access current file/repo context on Github.com       | ❌         | Copilot currently not enabling for extensions |
-| Access current file/repo context in an IDE        | ❌         | Copilot currently not enabling for extensions |
+| Feature         | @arm support | Standard Copilot | Rationale |
+|-----------------|------------|----------------------|-------------|
+| Ask questions       | ✅         | ✅ | Funamental feature |
+| Arm-specific responses | ✅ | ❌ | Built into @arm |
+| Expert-validated references for Arm servers | ✅ | ❌ | Built into @arm |
+| Using @workspace      | ❌ |✅ | Copilot does not support two @ extensions simultaneously |
+| Access current file/repo context on Github.com       | ❌         |✅ | Copilot currently not enabling for extensions |
+| Access current file/repo context in an IDE        | ❌         | ✅| Copilot currently not enabling for extensions |
 
-### Key:
+Key:
 - ✅ Supported
 - ❌ Not Supported
 
