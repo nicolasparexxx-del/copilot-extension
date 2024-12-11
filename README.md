@@ -31,33 +31,49 @@ Second, by ensuring responses consist of the most relevant and up-to-date inform
 
   
 ## What can I use @arm for?
-The current scope for the `@arm` extension is to assist Arm-based cloud developers in three specific areas:
-1. **Migration:** Port your project to the Arm architecture faster by asking questions like -
-    - General best-practice: `@arm What is the best methodology for me to migrate my web service to Azure?`
-    - Software compatibility:  `@arm Does Hyperscan and Snort3 work on Graviton4? What versions should I use?`
-    - Intrinsic swapping: `@arm What is the Arm equivalent of the _mm_add_epi8 intrinsic?`   
-2. **Optimization:** Get the best price performance for your project by asking questions like -
-    - General best-practice: `@arm Explain how to optimize my app's performance with BOLT?`
-    - Application-level: `@arm Help me improve memory alignment in my C data structures.`
-    - Hardware-level: `@arm How do I check if my Arm server supports LSE? I want to leverage it for my Rust app.`
-3. **CI/CD:** Learn to create an end-to-end supported Arm-based project by asking questions like - 
-    - General best-practice: `@arm How should I set up a multi-architecture CI pipeline in GitHub Actions?`
-    - Container management: `@arm How do I build multi-architecture Docker images?`
-    - Specific situations: `@arm How can I automate the deployment of an Arm virtual machine on GCP with Terraform?`
+The current scope for the `@arm` extension is to assist Arm-based cloud developers in three specific areas: Migration, Optimization, and CI/CD pipelines. It also handles basic coding advice for Arm-based servers.
 
-
-Migration:
+### Migration
+Port your project to the Arm architecture faster by asking about general best-practices, software compatibility, even how to migrate intrinsics to Arm. Examples:
 ```
-`@arm What is the best methodology for me to migrate my web service to Azure?
-```
-```
-`@arm Does Hyperscan and Snort3 work on Graviton4? What versions should I use?
+@arm What is the best methodology for me to migrate my web service to Azure?
 ```
 ```
-`@arm What is the Arm equivalent of the _mm_add_epi8 intrinsic?
+@arm Does Hyperscan and Snort3 work on Graviton4? What versions should I use?
+```
+```
+@arm What is the Arm equivalent of the _mm_add_epi8 intrinsic?
 ```
 
-Our extension also excels at helping with basic advice, such as `@arm I am trying to compile C++ code for the Arm architecture. Which compiler should I use?`
+### Optimization
+Get the best price performance for your project by asking about general best-practices, application-level tips, and how to take advantage of specific Arm architecture features. Examples:
+```
+@arm Explain how to optimize my app's performance with BOLT?
+```
+```
+@arm Help me improve memory alignment in my C data structures.
+```
+```
+@arm How do I check if my Arm server supports LSE? I want to leverage it for my Rust app.
+```
+
+### CI/CD
+Learn to create an end-to-end tested & supported Arm-based project by asking about general best-practices, container management, and your specific pipeline setup. Examples:
+```
+@arm How should I set up a multi-architecture CI pipeline in GitHub Actions?
+```
+```
+@arm How do I build multi-architecture Docker images?
+```
+```
+@arm How can I automate the deployment of an Arm virtual machine on GCP with Terraform?
+```
+
+### Getting Started on Arm servers
+Get straightforward, simple approaches to building the best apps on Arm servers starting from the basics. Example:
+```
+@arm I am trying to compile C++ code for the Arm architecture. Which compiler should I use?
+```
 
 
 ## How can I get access to @arm? Is it free?
