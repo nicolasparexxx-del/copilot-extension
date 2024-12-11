@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/apps/arm">
-    <img src="https://github.com/user-attachments/assets/f049b752-0a7e-4fdd-a63e-ed90f8c28f03" alt="Arm Copilot Extension">
+    <img src="https://github.com/user-attachments/assets/815df7e8-8b2d-4430-9b7b-3621fc5eb9e0" alt="Arm Copilot Extension">
   </a>
 </h1>
 <p align="center">
@@ -19,7 +19,10 @@
 
 
 # Introduction
-![output-ezgif com-crop](https://github.com/user-attachments/assets/e53dfccc-492b-4f72-b6c3-e014440f63e4)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/e53dfccc-492b-4f72-b6c3-e014440f63e4" alt="Example use-cases">
+</div>
+
 
 The Arm extension provides tips, best-practice, and code examples to develop better code on Arm-based servers. All Arm-cloud developers, from beginners to experts, can benefit from using this integration. Obtain expert advice for developing on these servers and beyond:
 - AWS Graviton
