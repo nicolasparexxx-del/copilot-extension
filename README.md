@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-<a href="#test">Introduction</a> &nbsp;&bull;&nbsp;
-<a href="#test">Installation</a> &nbsp;&bull;&nbsp;
-<a href="#test">Usage</a> &nbsp;&bull;&nbsp;
-<a href="#test">Documentation</a> &nbsp;&bull;&nbsp;
-<a href="#test">Issue?</a>
+<a href="#introduction">Introduction</a> &nbsp;&bull;&nbsp;
+<a href="#installation">Installation</a> &nbsp;&bull;&nbsp;
+<a href="#why-use-arm-is-it-different-than-standard-github-copilot">Value</a> &nbsp;&bull;&nbsp;
+<a href="#what-can-i-use-arm-for">Example Usage</a> &nbsp;&bull;&nbsp;  
+<a href="#additional-information">Additional Information</a>
 </p>
 
 
@@ -24,14 +24,20 @@ The Arm extension provides tips, best-practice, and code examples to develop bet
 - Azure Cobolt
 - Oracle AmpereOne
 
+
+## Installation
+It is free and easy to start. Make sure you (1) have a GitHub Copilot license, (2) install the Arm extension from the GitHub Marketplace, and (3) call `@arm` from your GitHub Copilot chat on GitHub or your favorite code editor. The first time you call `@arm` you will have to authorize the extension by clicking through a few screens. Then start using `@arm` as much as you'd like.
+
+  
+## What can I use @arm for?
+The current scope for the `@arm` extension is to assist Arm-based cloud developers in three specific areas: Migration, Optimization, and CI/CD pipelines. It also handles basic coding advice for Arm-based servers.
+
+
 ## Why use @arm? Is it different than standard GitHub Copilot?
 Our extension adds Arm-specific depth to GitHub Copilot in two primary ways. First, by ensuring responses are specific to the Arm-architecture. Calling `@arm` will ensure any tips, best-practice, and code snippets have the Arm architecture in mind. Default Copilot responses may provide information not-applicable to Arm-based cloud development.
 
 Second, by ensuring responses consist of the most relevant and up-to-date information in an ever-evolving industry. The `@arm` extension is built on a constantly updated RAG database of high-quality source material containing the most recent best-practices & code examples for Arm servers. Default Copilot responses may not reference the most up-to-date information possible.
 
-  
-## What can I use @arm for?
-The current scope for the `@arm` extension is to assist Arm-based cloud developers in three specific areas: Migration, Optimization, and CI/CD pipelines. It also handles basic coding advice for Arm-based servers.
 
 ### Migration
 Port your project to the Arm architecture faster by asking about general best-practices, software compatibility, even how to migrate intrinsics to Arm. Examples:
@@ -76,11 +82,9 @@ Get straightforward, simple approaches to building the best apps on Arm servers 
 ```
 
 
-## How can I get access to @arm? Is it free?
-It is free and easy to start. Make sure you (1) have a GitHub Copilot license, (2) install the Arm extension from the GitHub Marketplace, and (3) call `@arm` from your GitHub Copilot chat on GitHub or your favorite code editor. The first time you call `@arm` you will have to authorize the extension by clicking through a few screens. Then start using `@arm` as much as you'd like!
-
 -----
 
+## Additional Information
 
 ### What information do you store?
 We think transparency is essential when it comes to AI products. Our `@arm` extension respects your privacy. We do not sell your data to third parties. We do log conversations for the purposes of product improvement only, with all Personally Identifiable Information (such as your GitHub username) removed. For more details view our privacy policy and EULA. 
@@ -89,7 +93,6 @@ We think transparency is essential when it comes to AI products. Our `@arm` exte
 ### The future of the @arm extension
 We continue to update and expand the scope of the `@arm` GitHub Copilot extension. Any updates will be communicated here in this repository. If you have thoughts about what `@arm` should help with, any data sources `@arm` should be prioritizing, or otherwise please file an issue on the @arm Issue Tracker. Your feedback is appreciated, and helps us shape the future of this extension and beyond!
 
-We are excited to see what you build!
 
 ### Learn more about the Arm Developer ecosystem
-- Join the Arm Developer Program to talk other like-minded developers and Arm Experts about software development. 
+- Join the [Arm Developer Program](https://www.arm.com/resources/developer-program) to talk other like-minded developers and Arm Experts about software development. 
