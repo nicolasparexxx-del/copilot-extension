@@ -20,6 +20,7 @@
 
 # Introduction
 ![output-ezgif com-crop](https://github.com/user-attachments/assets/e53dfccc-492b-4f72-b6c3-e014440f63e4)
+
 The Arm extension provides tips, best-practice, and code examples to develop better code on Arm-based servers. All Arm-cloud developers, from beginners to experts, can benefit from using this integration. Obtain expert advice for developing on these servers and beyond:
 - AWS Graviton
 - GCP Axion
