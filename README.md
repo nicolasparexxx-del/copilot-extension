@@ -1,6 +1,30 @@
-# Arm Copilot Extension
+<h1 align="center">
+  <a href="https://github.com/apps/arm">
+    <img src="[upload here](https://github.com/user-attachments/assets/f049b752-0a7e-4fdd-a63e-ed90f8c28f03)" alt="Arm Copilot Extension>
+    ![Arm Copilot Extension](https://github.com/user-attachments/assets/f049b752-0a7e-4fdd-a63e-ed90f8c28f03)
+  </a>
+</h1>
+<p align="center">
+  This repository enables feedback and communication about the <strong>Arm GitHub Copilot</strong> extension.
+  Arm extension is an integration into GitHub Copilot created to make it easier for all Arm-cloud developers, from beginners to experts, to quickly develop better code. It is actively updated and easy to use.
+</p>
 
-Welcome to the Arm extension to GitHub Copilot. The goal of this tool is to make it faster for anyone to develop better code on Arm-based servers. Whether you're a seasoned cloud architect or a beginner to the Arm architecture, developing on AWS Graviton, GCP Axion, Azure Cobolt, or Oracle AmpereOne, asking `@arm` will make your coding easier.
+<p align="center">
+<a href="#test">Introduction</a> &nbsp;&bull;&nbsp;
+<a href="#test">Installation</a> &nbsp;&bull;&nbsp;
+<a href="#test">Usage</a> &nbsp;&bull;&nbsp;
+<a href="#test">Documentation</a> &nbsp;&bull;&nbsp;
+<a href="#test">Issue?</a>
+</p>
+
+
+
+# Introduction
+The Arm extension provides tips, best-practice, and code examples to develop better code on Arm-based servers. Supported servers include:
+- AWS Graviton
+- GCP Axion
+- Azure Cobolt
+- Oracle AmpereOne
 
 ## Why use @arm? Is it different than standard GitHub Copilot?
 Our extension adds Arm-specific depth to GitHub Copilot in two primary ways. First, by ensuring responses are specific to the Arm-architecture. Calling `@arm` will ensure any tips, best-practice, and code snippets have the Arm architecture in mind. Default Copilot responses may provide information not-applicable to Arm-based cloud development.
