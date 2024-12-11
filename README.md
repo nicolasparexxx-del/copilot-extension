@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/apps/arm">
-    <img src="[upload here](https://github.com/user-attachments/assets/f049b752-0a7e-4fdd-a63e-ed90f8c28f03)" alt="Arm Copilot Extension">
+    <img src="https://github.com/user-attachments/assets/f049b752-0a7e-4fdd-a63e-ed90f8c28f03" alt="Arm Copilot Extension">
   </a>
 </h1>
 <p align="center">
