@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/apps/arm">
-    <img src="https://github.com/user-attachments/assets/815df7e8-8b2d-4430-9b7b-3621fc5eb9e0" alt="Arm Copilot Extension">
+    <img height=350 alt="Arm GitHub Copilot Extension - Banner" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0091bd,100:002b49&text=Arm%20GitHub%20Copilot%20extension&section=header&fontSize=50&fontColor=FFF&animation=fadeIn&stroke=FCFCFC&strokeWidth=1&desc=Designed%20to%20help%20cloud%20software%20developers%20%20%20%20%20%20%20%20%20build%20better%20code%20on%20Arm%20servers,%20faster.&descSize=20"></img></a>
   </a>
 </h1>
 <p align="center">
