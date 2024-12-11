@@ -45,6 +45,18 @@ The current scope for the `@arm` extension is to assist Arm-based cloud develope
     - Container management: `@arm How do I build multi-architecture Docker images?`
     - Specific situations: `@arm How can I automate the deployment of an Arm virtual machine on GCP with Terraform?`
 
+
+Migration:
+```
+`@arm What is the best methodology for me to migrate my web service to Azure?
+```
+```
+`@arm Does Hyperscan and Snort3 work on Graviton4? What versions should I use?
+```
+```
+`@arm What is the Arm equivalent of the _mm_add_epi8 intrinsic?
+```
+
 Our extension also excels at helping with basic advice, such as `@arm I am trying to compile C++ code for the Arm architecture. Which compiler should I use?`
 
 
