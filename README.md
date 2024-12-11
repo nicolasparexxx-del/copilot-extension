@@ -35,14 +35,14 @@ The Arm extension provides tips, best-practice, and code examples to develop bet
 It is free and easy to start. Make sure you (1) have a GitHub Copilot license, (2) install the Arm extension from the GitHub Marketplace, and (3) call `@arm` from your GitHub Copilot chat on GitHub or your favorite code editor. The first time you call `@arm` you will have to authorize the extension by clicking through a few screens. Then start using `@arm` as much as you'd like.
 
   
-## What can I use @arm for?
-The current scope for the `@arm` extension is to assist Arm-based cloud developers in three specific areas: Migration, Optimization, and CI/CD pipelines. It also handles basic coding advice for Arm-based servers.
-
-
 ## Why use @arm? Is it different than standard GitHub Copilot?
 Our extension adds Arm-specific depth to GitHub Copilot in two primary ways. First, by ensuring responses are specific to the Arm-architecture. Calling `@arm` will ensure any tips, best-practice, and code snippets have the Arm architecture in mind. Default Copilot responses may provide information not-applicable to Arm-based cloud development.
 
 Second, by ensuring responses consist of the most relevant and up-to-date information in an ever-evolving industry. The `@arm` extension is built on a constantly updated RAG database of high-quality source material containing the most recent best-practices & code examples for Arm servers. Default Copilot responses may not reference the most up-to-date information possible.
+
+
+## What can I use @arm for?
+The current scope for the `@arm` extension is to assist Arm-based cloud developers in three specific areas: Migration, Optimization, and CI/CD pipelines. It also handles basic coding advice for Arm-based servers.
 
 
 ### Migration
@@ -101,4 +101,6 @@ We continue to update and expand the scope of the `@arm` GitHub Copilot extensio
 
 
 ### Learn more about the Arm Developer ecosystem
-- Join the [Arm Developer Program](https://www.arm.com/resources/developer-program) to talk other like-minded developers and Arm Experts about software development. 
+- Join the [Arm Developer Program](https://www.arm.com/resources/developer-program) to talk other like-minded developers and Arm Experts about software development.
+
+<img src="https://github.com/user-attachments/assets/815df7e8-8b2d-4430-9b7b-3621fc5eb9e0" alt="Arm Copilot Extension">
