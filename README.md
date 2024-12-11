@@ -4,8 +4,7 @@
   </a>
 </h1>
 <p align="center">
-  This repository enables feedback and communication about the <strong>Arm GitHub Copilot</strong> extension.
-  Arm extension is an integration into GitHub Copilot created to make it easier for all Arm-cloud developers, from beginners to experts, to quickly develop better code. It is actively updated and easy to use.
+  This repository enables feedback and communication about the <strong>Arm GitHub Copilot</strong> extension. It is actively updated and easy to get started.
 </p>
 
 <p align="center">
@@ -19,7 +18,7 @@
 
 
 # Introduction
-The Arm extension provides tips, best-practice, and code examples to develop better code on Arm-based servers. Supported servers include:
+The Arm extension provides tips, best-practice, and code examples to develop better code on Arm-based servers. All Arm-cloud developers, from beginners to experts, can benefit from using this integration. Obtain expert advice for developing on these servers and beyond:
 - AWS Graviton
 - GCP Axion
 - Azure Cobolt
