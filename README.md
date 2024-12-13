@@ -99,7 +99,7 @@ This table highlights the support status of features for this extension vs stand
 
 | Feature         | @arm support | Standard Copilot | Rationale |
 |-----------------|------------|----------------------|-------------|
-| Ask questions       | ✅         | ✅ | Funamental feature |
+| Ask questions       | ✅         | ✅ | Fundamental feature |
 | Arm-specific responses | ✅ | ❌ | Built into @arm |
 | Expert-validated references for Arm servers | ✅ | ❌ | Built into @arm |
 | Using @workspace      | ❌ |✅ | Copilot does not support two @ extensions simultaneously |
@@ -112,7 +112,7 @@ Key:
 
 
 ### What information do you store?
-We think transparency is essential when it comes to AI products. Our `@arm` extension respects your privacy. We do not sell your data to third parties. We do log conversations for the purposes of product improvement only, with all Personally Identifiable Information (such as your GitHub username) removed. For more details view our privacy policy and EULA. 
+We think transparency is essential when it comes to AI products. Our `@arm` extension respects your privacy. We do not sell your data to third parties. We do log conversations for the purposes of product improvement only, with all Personally Identifiable Information (such as your GitHub username) removed. For more details view our [privacy policy and EULA](https://developer.arm.com/documentation/PRE-1148/latest/). 
 
 
 ### The future of the @arm extension
