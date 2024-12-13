@@ -121,5 +121,3 @@ We continue to update and expand the scope of the `@arm` GitHub Copilot extensio
 
 ### Learn more about the Arm Developer ecosystem
 - Join the [Arm Developer Program](https://www.arm.com/resources/developer-program) to talk other like-minded developers and Arm Experts about software development.
-
-<img src="https://github.com/user-attachments/assets/815df7e8-8b2d-4430-9b7b-3621fc5eb9e0" alt="Arm Copilot Extension">
