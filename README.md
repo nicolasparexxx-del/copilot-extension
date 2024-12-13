@@ -24,12 +24,7 @@
 </div>
 
 
-The Arm extension provides tips, best-practice, and code examples to develop better code on Arm-based servers. All Arm-cloud developers, from beginners to experts, can benefit from using this integration. Obtain expert advice for developing on these servers and beyond:
-
-- AWS Graviton
-- GCP Axion
-- Azure Cobolt
-- Oracle AmpereOne
+The Arm extension provides tips, best-practice, and code examples to develop better code on Arm-based servers. All Arm-cloud developers, from beginners to experts, can benefit from using this integration. Arm-based servers offer exceptional price performance and are available across cloud providers, including [AWS](https://aws.amazon.com/ec2/graviton/), [Google Cloud](https://cloud.google.com/compute/docs/instances/arm-on-compute), [Microsoft Azure](https://azure.microsoft.com/en-us/blog/azure-cobalt-100-based-virtual-machines-are-now-generally-available/), [Oracle](https://www.oracle.com/cloud/compute/arm/), and [Alibaba](https://www.alibabacloud.com/product/ecs/g8m)
 
 
 ## Installation
