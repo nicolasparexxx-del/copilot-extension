@@ -4,7 +4,7 @@
   </a>
 </h1>
 <p align="center">
-  This repository enables feedback and communication about the <strong>Arm GitHub Copilot</strong> extension. It is actively updated and easy to get started.
+  This repository enables feedback and communication about the <strong>Arm for GitHub Copilot</strong> extension. It is actively updated and easy to get started.
 </p>
 
 
